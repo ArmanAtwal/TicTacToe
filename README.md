@@ -1,5 +1,8 @@
 # Tic Tac Toe
 
+<img width="297" alt="Screenshot 2023-07-18 at 3 16 27 PM" src="https://github.com/ArmanAtwal/TicTacToe/assets/139921617/d1d2b0c5-7672-4521-8509-e95c121eb895">
+
+
 # Description
 This is a simple command-line implementation of the Tic Tac Toe game using Python. The game allows two players to take turns and compete against each other to achieve three in a row.
 
